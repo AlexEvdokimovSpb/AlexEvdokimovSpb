@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Mobile Developer with **4 years and 10 months of professional experience** specializing in Android development and Kotlin Multiplatform.
+Mobile Developer with **about five years of commercial development experience** specializing in Android development and Kotlin Multiplatform.
 
 I have experience developing mobile applications for **retail, HoReCa, banking, insurance, and investment** domains.
 
