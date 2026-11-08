@@ -59,7 +59,7 @@ My main technologies are Kotlin, Android, Jetpack Compose, Kotlin Multiplatform,
 ### Umbrella IT
 
 **Mobile Developer**
-*November 2021 — Present*
+*November 2021 — October 2026*
 
 Working on mobile applications for clients in different industries.
 
